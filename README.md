@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Leo! 👋
 
-<!--
-**leonardorsg/leonardorsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Third year student of Computer Engineering and Informatics at the Faculty of Engineering of the University of Porto. 
+
+
+
+
+
+🧠 I'm currently learning Korean
+
+💬 Ask me about graph theory anytime
+
+📫 Reach me at leonardorsg@hotmail.com 
+
+
+
+
+## 🛠 Skills
+Engineering math and physics bases, **C++**, JavaScript, Python, PHP, **Databases**, Software Engineering, Artificial
+Intelligence,**Algorithms and Data Strcutures**, **Design of Algorithms** ,**OOP and logics**, Robotics and CG, Computer Architecture and Assembly Language.
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-garcia-90549914b/)
