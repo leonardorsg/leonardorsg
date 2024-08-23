@@ -8,7 +8,7 @@ Third year student of Computer Engineering and Informatics at the Faculty of Eng
 
 
 
-🧠 I'm currently learning Korean
+🧠 I'm currently learning Machine Learning
 
 💬 Ask me about graph theory anytime
 
