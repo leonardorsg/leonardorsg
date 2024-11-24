@@ -36,7 +36,7 @@ Intelligence,**Algorithms and Data Strcutures**, **Design of Algorithms** ,**OOP
 | [MarTech Place Mobile App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)       | Flutter, FlutterFlow, FireBase, Relational Databases, Software Architecture and Design, Testing Techniques, Security Measures, Agile Methodologies|
 | [Travelling Salesman Problem](https://github.com/vanessa-sbq/DA-TSP-Proj2/tree/main)       | Data Structures, Graph Theory, Design of Algorithms, C++, NP Complete Probelems|
 | [Universe Bomb for LCOM](https://github.com/leonardorsg/UniverseBombLCOM)       | C language, Low Level Software Development, Device Interrupt Manipulation |
-| [Data Link Layer Protocol]((https://github.com/leonardorsg/LAB1-DLP)       | Computer Networks, C Language, File transfering between two computers by developing a Data Link Layer Protocol|
+| [Data Link Layer Protocol](https://github.com/leonardorsg/LAB1-DLP)       | Computer Networks, C Language, File transfering between two computers by developing a Data Link Layer Protocol|
 
 
 
