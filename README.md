@@ -37,6 +37,13 @@ Intelligence,**Algorithms and Data Strcutures**, **Design of Algorithms** ,**OOP
 | [Travelling Salesman Problem](https://github.com/vanessa-sbq/DA-TSP-Proj2/tree/main)       | Data Structures, Graph Theory, Design of Algorithms, C++, NP Complete Probelems|
 | [Universe Bomb for LCOM](https://github.com/leonardorsg/UniverseBombLCOM)       | C language, Low Level Software Development, Device Interrupt Manipulation |
 | [Data Link Layer Protocol](https://github.com/leonardorsg/LAB1-DLP)       | Computer Networks, C Language, File transfering between two computers by developing a Data Link Layer Protocol|
+| [Kalman Filter Implementation](https://github.com/leonardorsg/KalmannFilters) | Machine Learning, C++, Python, GTFS data, GPS API, Porto Transport System|
+| [Mushroom Classifier](https://github.com/leonardorsg/IA-PROJ2-MushroomClassifier) | Python, AI classification, BIGDATA|
+| [File Transfer Protocol](https://github.com/leonardorsg/NetworkLayerProj) | Computer Networks, FTP, Network Layer, C, Low-lever|
+| [Fire Scene - CG](https://github.com/leonardorsg/Computer-Graphics---Fire-Scene) | Computer Graphics, JavaScript, WEBGL|
+| [Java Compiler](https://github.com/leonardorsg/JAVAcompiler) | Full Java Compiler, Java, Intermediate Code Representation, Ollir, JASMIM|
+| [TCP Chat System](https://github.com/leonardorsg/TPC-Chat) | Java, Parallel and Distributed Systems, AI-powered|
+| [Matrix Parallelization](https://github.com/leonardorsg/Matrix-Parallelization) | C++, Python, PAPI, OMP Parallelization|
 
 
 
