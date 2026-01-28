@@ -44,6 +44,7 @@ Intelligence,**Algorithms and Data Strcutures**, **Design of Algorithms** ,**OOP
 | [Java Compiler](https://github.com/leonardorsg/JAVAcompiler) | Full Java Compiler, Java, Intermediate Code Representation, Ollir, JASMIM|
 | [TCP Chat System](https://github.com/leonardorsg/TPC-Chat) | Java, Parallel and Distributed Systems, AI-powered|
 | [Matrix Parallelization](https://github.com/leonardorsg/Matrix-Parallelization) | C++, Python, PAPI, OMP Parallelization|
+| [Bus Mapping - Summer Internship](https://github.com/leonardorsg/BusMapping---OPT) | LLM, Data Engineering, C++, Machine Learning, Big Data
 
 
 
